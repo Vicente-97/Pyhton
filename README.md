@@ -13,7 +13,7 @@
 
 Dichos ejercicios contienen las estructuras básicas de programación, como pueden ser:
 
--Bucles
--Condicionales
--Secuencial
+- Bucles
+- Condicionales
+- Secuencial
  
