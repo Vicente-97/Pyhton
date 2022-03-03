@@ -17,3 +17,9 @@ Dichos ejercicios contienen las estructuras básicas de programación, como pued
 - Condicionales
 - Secuencial
  
+![image](https://user-images.githubusercontent.com/99359631/156572293-0a91059b-5c90-403f-ab39-4ea107ce706e.png)
+
+*El siguiente link lleva al sitio oficial de Python*
+
+
+[Python](https://www.python.org/downloads/)
